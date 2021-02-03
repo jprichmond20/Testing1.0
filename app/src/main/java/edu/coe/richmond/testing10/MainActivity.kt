@@ -11,7 +11,7 @@ import java.util.*
 
 
 class MainActivity : AppCompatActivity() {
-
+//Language/Concept App
     val langList = arrayListOf("C++", "Java", "Python", "JavaScript", "Kotlin")
     val conceptList = arrayListOf("Loops", "Variables", "Syntax", "Conditional Statements", "Input/Output")
     override fun onCreate(savedInstanceState: Bundle?) {
